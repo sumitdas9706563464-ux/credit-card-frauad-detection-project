@@ -163,9 +163,8 @@ credit_card_project/
 -   Integrate with external data sources for richer customer profiles.
 -   Develop a web application for interactive data visualization and model deployment.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 
 
